@@ -1,0 +1,9 @@
+# 下载的视频文件
+source/
+
+# yt-dlp 本体（不要提交到仓库）
+yt-dlp.exe
+
+# 系统文件
+Thumbs.db
+.DS_Store
