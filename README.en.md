@@ -40,3 +40,7 @@ A lightweight Windows video downloader based on yt-dlp. It automatically downloa
 ## Disclaimer
 
 This tool is provided for technical learning and personal convenience purposes only. The author is not responsible for any legal liabilities arising from the use of this tool. Please ensure that your downloading behavior complies with local laws and regulations.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
